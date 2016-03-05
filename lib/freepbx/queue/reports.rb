@@ -1,4 +1,4 @@
-require "freepbx/queue/reports/version"
+require 'freepbx/queue/reports/version'
 
 module Freepbx
   module Queue
